@@ -112,41 +112,9 @@ def construct_waltz():
 
     player = sa.play_buffer(bytes, channel, bps, sr)
     player.wait_done()
-    
-    
-
-        
-        
-        
-    
-    
         
     return "Playing waltz"         
-        
-        
-        
     
-        
-    
-        
-        
-        
-    
-    
-    
-    
-   
-        
-    
-    
-            
-        
-
-        
-        
-        
-        
-        
         
 print(construct_waltz())
 
